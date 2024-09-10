@@ -1,0 +1,15 @@
+* Change the color of the dots */
+.slick-dots li button:before {
+    color: #6198ff; /* Change this to your desired color */
+}
+
+/* Change the color of the active dot */
+.slick-dots li.slick-active button:before {
+    color: #6198ff; /* Change this to your desired color */
+}
+
+/* Change the color of the arrow buttons */
+.slick-prev:before,
+.slick-next:before {
+    color: #6198ff; /* Change this to your desired color */
+}
